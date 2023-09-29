@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.push-to-talk-btn {
+  position: absolute;
+  justify-content: center;
+  left: 50vw;
+  bottom: 12.5rem;
+  transform: translateX(-50%);
+  z-index: 99999;
+
+}
+
